@@ -1,4 +1,4 @@
-const validColors = 'abcdefghijklm'
+const validColors = 'abcdefghijklm';
 
 function printerError(input) {
     let invalid = 0;
